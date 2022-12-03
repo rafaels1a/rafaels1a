@@ -1,9 +1,5 @@
 ### Hi there 👋 I´m Rafael S Alcântara
 
-**rafaels1a/rafaels1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 Atualmente estou trabalhando na LinkLaser Tecnho Quality como freelancer.
     🌱 Atualmente estou me aprofundando nos estudos de testes automatizados. Especialmente com Cypress.io
     👯 Estou procurando colaborar em...
